@@ -21,9 +21,9 @@ public class TwoDimensionalArray {
 			}
 		}
 
-		for (int[] intValues : arr) {
+		for (int[] ints : arr) {
 			for (int j = 0; j < c; j++) {
-				System.out.print(intValues[numCol[j]] + " ");
+				System.out.print(ints[numCol[j]] + " ");
 			}
 			System.out.println();
 		}

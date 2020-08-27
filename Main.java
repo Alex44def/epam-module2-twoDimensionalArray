@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		System.out.println("Algorithmization. Массивы массивов");
+		System.out.println("Algorithmization.  Массивы массивов");
 
 		int[][] arr11 = new int[][] { { 1, 7, 9, 4, 5 }, { 5, 6, 7, 8, 6 }, { 9, 3, 5, 2, 1 }, { 2, 5, 7, 1, 1 },
 				{ 1, 6, 7, 8, 4 } };
